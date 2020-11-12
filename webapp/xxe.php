@@ -7,7 +7,6 @@ $importedxml = simplexml_import_dom($model);
 $firstname = $importedxml->firstname;
 $phonenumber = $importedxml->phonenumber;
 $emailadd = $importedxml->emailadd;
-$password = $importedxml->password;
 
 echo "That is weird, $emailadd is not valid. Please try again!";
 
