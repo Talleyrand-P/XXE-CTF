@@ -1,5 +1,5 @@
 # XXE-CTF
-A small XXE CTF using a vulnerable PHP script.
+A small XXE CTF using a vulnerable PHP script. The goal is to read the passwd file.
 
 To download the code use the command
 
